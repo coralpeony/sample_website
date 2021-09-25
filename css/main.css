@@ -7,3 +7,25 @@
   text-decoration: none;
  }
 
+.image-link {
+  text-decoration: none;
+}
+
+.tags-padding {
+padding: 10px;
+}
+
+.moby-header {
+ text-align: center; margin: 0 0 80px;
+}
+
+.main-div {
+    width: 500px; 
+    margin: 20px auto; 
+    padding: 30px;
+    background-color: #fafafa;
+}
+
+.moby-dick {
+   float: left; margin: 0 40px 0 0;
+}
